@@ -1,0 +1,9 @@
+export { default as HomePage } from "./HomePage";
+export { default as PostsByCategory } from "./PostsByCategory";
+export { default as CategoryPosts } from "./CategoryPosts";
+export { default as PostPage } from "./PostPage";
+export { default as NewPost } from "./NewPost";
+export { default as Page404 } from "./Page404";
+export { default as EditPost } from "./EditPost";
+export { default as NewComment } from "./NewComment";
+export { default as EditComment } from "./EditComment"
